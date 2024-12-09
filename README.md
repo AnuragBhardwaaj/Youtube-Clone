@@ -35,7 +35,7 @@ Usage
 
 Screenshots
 
-https://github.com/AnuragBhardwaaj/Youtube-Clone/blob/main/Screenshots/Screenshot%202024-12-09%20114305.png
+![Screenshot](https://github.com/AnuragBhardwaaj/Youtube-Clone/blob/main/Screenshots/Screenshot%202024-12-09%20114305.png)
 
 
 Contributing
