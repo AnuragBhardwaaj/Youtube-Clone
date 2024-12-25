@@ -1,21 +1,21 @@
-__YouTube Clone__**
+**__YouTube Clone__**
 
 This is a simple YouTube clone built using HTML and CSS. The project mimics the basic layout and design of YouTube’s interface, showcasing your skills in web development and front-end design. It is a static website with no backend functionality, just using HTML for structure and CSS for styling.
 
-**Features**
+**_Features_**
 
 - Header Section: Includes a search bar and a logo similar to YouTube's.
 - Sidebar Navigation: A navigation menu on the left side with links to different categories (e.g., Home, Explore, Subscriptions).
 - Video Thumbnails: Displaying video thumbnails in a grid layout, mimicking the YouTube homepage.
 - Responsive Design: The layout is responsive, meaning it adapts to different screen sizes (desktops, tablets, and mobiles).
 
-**Technologies Used**
+**_Technologies Used_**
 
 - HTML: Used for the structure and layout of the page.
 - CSS: Used for styling and making the page look visually similar to YouTube.
 - Responsive Design: Implemented with media queries to ensure compatibility with various devices.
 
-**Installation**
+**_Installation_**
 
 You can view the project live by opening the `index.html` file in your browser. Here's how you can do it:
 
@@ -29,15 +29,15 @@ You can view the project live by opening the `index.html` file in your browser. 
     ```
 3. Open the `index.html` file in your browser to see the project in action.
 
-**Usage**
+**_Usage_**
 
 - You can interact with the layout as if you were browsing YouTube. However, please note that this is a static clone and doesn't have any actual video functionality (i.e., no video playback).
 
-**Screenshots**
+**_Screenshots_**
 
 ![Screenshot](https://github.com/AnuragBhardwaaj/Youtube-Clone/blob/main/Screenshots/Screenshot%202024-12-09%20114305.png)
 
 
-**Contributing**
+**_Contributing_**
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
